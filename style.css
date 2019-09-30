@@ -1,0 +1,25 @@
+.odd {
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    position: none;
+    list-style-type: none;
+  }
+
+  ul {
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+  }
+  li:nth-child(n) { 
+      padding: 10px;
+      position: none;
+      list-style-type: none;
+      width: 472px;
+  }
+
+  .even {
+      padding: 10px;
+      position: none;
+      list-style-type: none;
+      background: rgb(216, 216, 216);
+  }
