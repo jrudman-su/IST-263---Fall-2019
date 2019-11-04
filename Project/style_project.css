@@ -1,0 +1,82 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:7rem;
+    color: white;
+    text-align: center;
+}
+
+.home{
+    position: absolute;
+    left: 1600px;
+    top: 0;
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif; 
+    border: 3px solid rgb(230, 206, 100);
+    
+  }
+
+.genre{
+    position: absolute;
+    left: 1385px;
+    top: 0;
+    color: white;
+    font-size: 1rem;
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid rgb(230, 206, 100);
+}
+
+.history{
+    position: absolute;
+    left: 1275px;
+    top: 0;
+    color: white;
+    font-size: 1rem;
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid rgb(230, 206, 100);
+  }
+.quote {
+
+    font-size:1.2rem;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    
+  }
+
+  .music-image{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+
+.types{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:2rem;
+    color: white;
+}
+
+.timeline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:2rem;
+    color: white;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.2rem;
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-color: rgb(230, 206, 100);
+}
+
+.genre-underline{
+    
+    text-decoration: underline;
+    text-decoration-color: rgb(230, 206, 100);
+}
